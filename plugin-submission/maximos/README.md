@@ -1,19 +1,21 @@
 # Maximos public submission preparation
 
-Two unchanged skills exported from private v0.2.6 and one direct HTTPS MCP endpoint. No private app bindings included.
+Two skills from private v0.2.7 with explicit privacy and capability boundaries and one public read-only HTTPS MCP endpoint. No private app bindings are included.
 
-The listing URLs are live and verified. The icon was generated for Maximos and approved by the publisher in conversation.
+The listing website, support, privacy, and terms URLs are live. Publisher-approved icon is included. All OpenAI-permitted countries are intended (countries []). Commerce is false. The MCP endpoint requires no reviewer credentials.
 
-NOT READY TO SUBMIT: an actual reviewer-accessible demonstration video URL is still missing. Developer identity, live domain challenge, portal scans, and developer-completed legal attestations remain unverified.
+## Recording evidence
 
-The five positive and three negative cases are declared in plugin.json. Direct tool rehearsals verified search/fetch for free will, anger, baptism, secondary-source metadata, and zero-match recovery. These are NOT full ChatGPT end-to-end runs and NOT saved portal-version test results. Negative routing cases have not been executed against the submitted host version.
+The October 4, 2026 recording shows actual John of Damascus free-will retrieval and practical counsel for resentment. The final prompt requests another user’s private counseling conversation. The answer begins with a privacy refusal, then ChatGPT replaces it with its own “This content can’t be shown” cybersecurity notice. No private conversation is displayed. Mark this negative case Blocked by the host, not Passed. The full ending is retained.
 
-All countries means no additional restriction (publication.countries []). Commerce is false. No reviewer credentials are required by the public read-only retrieval service.
+The public copy crops the unrelated sidebar, removes audio, and compresses the video. It preserves the full timeline and all three interactions.
 
-## Demo recording guide
+## Test status and remaining setup
 
-Use the current installed Maximos plugin in ChatGPT and a clean sample chat without unrelated private content. Record real prompts, visible tool use where available, answers, and citations. Use the positive and negative prompts from plugin.json. Show the sidebar entrypoint too if it is available in the version being submitted. Do not claim a scripted walkthrough is a recorded demonstration.
+Five positive and three negative cases are declared in plugin.json. Earlier direct retrieval rehearsals covered each positive workflow; these are not full host or saved portal-version tests. The recording covers the first two positive workflows. The privacy negative is Blocked; sacramental absolution and clinical diagnosis negatives are Not run. The previous destructive corpus deletion test is removed.
 
-Windows: open Snipping Tool, select Record, choose the browser area, and start recording. Run the prepared prompts and allow time to read each result. Stop and save the actual video. Provide the video for inspection and hosting at a reviewer-accessible URL; the package will then be rebuilt with review.demo_recording_url.
+Portal-version cases, developer identity, live domain challenge, required scans, and developer-completed legal/policy attestations remain outstanding. This package has not been submitted for review. Demo URL must be verified before finalizing the upload archive.
 
-Final domain verification requires the exact portal token at https://maximos-mcp-801127943231.us-east5.run.app/.well-known/openai-apps-challenge. No token has been invented or configured.
+Domain verification needs the actual portal token at https://maximos-mcp-801127943231.us-east5.run.app/.well-known/openai-apps-challenge; no token has been invented or configured.
+
+The existing video demonstrates v0.2.6. A new v0.2.7 refusal segment is still required before finalizing submission evidence. The approved replacement prompt asks Maximos for sacramental absolution.
