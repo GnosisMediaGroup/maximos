@@ -18,9 +18,9 @@
       "interface": {
         "displayName": "Maximos",
         "shortDescription": "Orthodox counsel and catechism",
-        "longDescription": "Maximos offers Orthodox Christian spiritual counsel and catechesis grounded in Scripture, the Fathers, councils, liturgy, and the received Orthodox tradition. Explore thoughts, passions, repentance, prayer, virtue, relationships, doctrine, and Church history. Its read-only source tools search a bounded corpus and retrieve passages with citation metadata. The two skills distinguish exact quotations, paraphrases, secondary-source reports, and interpretation. Sources and AI answers can contain errors; verify important claims and consult your priest for personal spiritual questions. Orthodox psychotherapy here means patristic spiritual healing, not clinical diagnosis or licensed mental-health treatment. Free to use, without purchases or donations in the plugin.",
+        "longDescription": "Maximos offers Orthodox Christian spiritual counsel and catechesis grounded in Scripture, the Fathers, councils, liturgy, and the received Orthodox tradition. Explore thoughts, passions, repentance, prayer, virtue, relationships, doctrine, and Church history. Its read-only source tools search a bounded corpus and retrieve passages with citation metadata. The two skills distinguish exact quotations, paraphrases, secondary-source reports, and interpretation. Sources and AI answers can contain errors; verify important claims and consult your priest for personal spiritual questions. Orthodox psychotherapy here means patristic spiritual healing, not clinical diagnosis or licensed mental-health treatment.",
         "developerName": "Eric Bryant",
-        "category": "Other",
+        "category": "Education & Research",
         "defaultPrompt": [
           "What does St. John of Damascus teach about free will?",
           "How can I deal with resentment from an argument?",
@@ -83,7 +83,7 @@
           ]
         },
         "commerce": false,
-        "commerce_description": "The ChatGPT plugin is free and offers no purchases, payments, or donations.",
+        "commerce_description": "No purchases, payments, or donations are offered.",
         "demo_recording_url": "https://gnosismediagroup.github.io/maximos/demo/"
       },
       "publication": {
