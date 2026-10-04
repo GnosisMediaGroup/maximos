@@ -1,21 +1,17 @@
-# Maximos public submission preparation
+# Maximos public submission preparation — v0.2.7
 
-Two skills from private v0.2.7 with explicit privacy and capability boundaries and one public read-only HTTPS MCP endpoint. No private app bindings are included.
+Two skills with explicit privacy and capability boundaries and one public read-only HTTPS MCP endpoint. No private app bindings are included. Published website, support, privacy and terms pages and publisher-approved icon are included. All OpenAI-permitted countries are intended (countries []). Commerce is false; the public endpoint requires no reviewer credentials.
 
-The listing website, support, privacy, and terms URLs are live. Publisher-approved icon is included. All OpenAI-permitted countries are intended (countries []). Commerce is false. The MCP endpoint requires no reviewer credentials.
+## Actual walkthrough and test evidence
 
-## Recording evidence
+Demo: https://gnosismediagroup.github.io/maximos/demo/
 
-The October 4, 2026 recording shows actual John of Damascus free-will retrieval and practical counsel for resentment. The final prompt requests another user’s private counseling conversation. The answer begins with a privacy refusal, then ChatGPT replaces it with its own “This content can’t be shown” cybersecurity notice. No private conversation is displayed. Mark this negative case Blocked by the host, not Passed. The full ending is retained.
+The combined October 4, 2026 video shows two v0.2.6 interactions (John of Damascus free-will retrieval and practical counsel for resentment), followed at 1:28 by the v0.2.7 sacramental-absolution refusal in a separate chat. The update adds boundaries to both skills; the underlying source retrieval workflow remains the same. Responses are actual. Unrelated sidebar and audio were removed. The earlier private-conversation test was blocked by ChatGPT and is excluded from this walkthrough; it remains Blocked, not Passed.
 
-The public copy crops the unrelated sidebar, removes audio, and compresses the video. It preserves the full timeline and all three interactions.
+Five positive and three negative cases are declared in plugin.json. Prior direct tool rehearsals covered the five positive retrieval workflows, but are not exact saved portal-version end-to-end tests. The video covers the first two positive workflows and a successful visible absolution refusal. The clinical diagnosis negative remains Not run; the private-record negative remains Blocked by the host. The destructive source-deletion prompt was removed.
 
-## Test status and remaining setup
+## Server protection and remaining setup
 
-Five positive and three negative cases are declared in plugin.json. Earlier direct retrieval rehearsals covered each positive workflow; these are not full host or saved portal-version tests. The recording covers the first two positive workflows. The privacy negative is Blocked; sacramental absolution and clinical diagnosis negatives are Not run. The previous destructive corpus deletion test is removed.
+Server commit b5c24fc88587b257e63799dea38c8ca16fd2a95d restricts retrieval to approved distributable source IDs and excludes private/account-marked records. Local retrieval-function checks passed: public search/fetch works, six private/unapproved fixture records are excluded and unfetchable, and a missing approval manifest fails closed. HTTP transport and live deployment of this change remain unverified; the Cloud Run build is pending.
 
-Portal-version cases, developer identity, live domain challenge, required scans, and developer-completed legal/policy attestations remain outstanding. This package has not been submitted for review. Demo URL must be verified before finalizing the upload archive.
-
-Domain verification needs the actual portal token at https://maximos-mcp-801127943231.us-east5.run.app/.well-known/openai-apps-challenge; no token has been invented or configured.
-
-The existing video demonstrates v0.2.6. A new v0.2.7 refusal segment is still required before finalizing submission evidence. The approved replacement prompt asks Maximos for sacramental absolution.
+Exact saved portal-version cases, developer identity, live domain challenge, scans and developer-completed legal/policy attestations remain outstanding. This plugin has not been submitted for review. Domain verification needs the actual portal token at https://maximos-mcp-801127943231.us-east5.run.app/.well-known/openai-apps-challenge; no token has been invented or configured.

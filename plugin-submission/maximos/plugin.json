@@ -83,7 +83,8 @@
           ]
         },
         "commerce": false,
-        "commerce_description": "The ChatGPT plugin is free and offers no purchases, payments, or donations."
+        "commerce_description": "The ChatGPT plugin is free and offers no purchases, payments, or donations.",
+        "demo_recording_url": "https://gnosismediagroup.github.io/maximos/demo/"
       },
       "publication": {
         "countries": [],
