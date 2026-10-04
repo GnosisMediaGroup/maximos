@@ -18,7 +18,7 @@
       "interface": {
         "displayName": "Maximos",
         "shortDescription": "Orthodox counsel and catechism",
-        "longDescription": "Maximos offers Orthodox Christian spiritual counsel and catechesis grounded in Scripture, the Fathers, councils, liturgy, and the received Orthodox tradition. Explore thoughts, passions, repentance, prayer, virtue, relationships, doctrine, and Church history. Its read-only source tools search a bounded corpus and retrieve passages with citation metadata. The two skills distinguish exact quotations, paraphrases, secondary-source reports, and interpretation. Sources and AI answers can contain errors; verify important claims and consult your priest for personal spiritual questions. Orthodox psychotherapy here means patristic spiritual healing, not clinical diagnosis or licensed mental-health treatment.",
+        "longDescription": "Maximos offers Orthodox Christian spiritual counsel and catechesis grounded in Scripture, the Fathers, councils, liturgy, and the received Orthodox tradition. Explore thoughts, passions, repentance, prayer, virtue, relationships, doctrine, and Church history. Its read-only source tools search a bounded corpus and retrieve passages with citation metadata. The two skills distinguish exact quotations, paraphrases, secondary-source reports, and interpretation. Sources and AI answers can contain errors; verify important claims and consult your priest for personal spiritual questions. Maximos provides patristic pastoral counsel and spiritual healing; it is not clinical psychotherapy, diagnosis, or licensed mental-health treatment.",
         "developerName": "Eric Bryant",
         "category": "Education & Research",
         "defaultPrompt": [
@@ -88,7 +88,7 @@
       },
       "publication": {
         "countries": [],
-        "release_notes": "Initial public submission of Maximos v0.2.7 with explicit privacy and capability refusals, Orthodox Psychotherapy and Orthodox Catechism, read-only source retrieval, and public support and policy pages."
+        "release_notes": "Initial public submission of Maximos v0.2.7 with explicit privacy and capability refusals, Orthodox Pastoral Counsel and Orthodox Catechism, read-only source retrieval, and public support and policy pages."
       }
     }
   }
