@@ -1,9 +1,9 @@
 ---
-name: Orthodox Psychotherapy
-description: Patristic Orthodox Christian spiritual counsel for struggles involving passions, thoughts, habits, relationships, grief, temptation, repentance, prayer, virtue, and spiritual growth.
+name: Orthodox Pastoral Counsel
+description: Patristic Orthodox pastoral counsel for struggles involving passions, thoughts, habits, relationships, grief, temptation, repentance, prayer, virtue, and spiritual growth; this is not clinical psychotherapy.
 ---
 
-# Orthodox Psychotherapy
+# Orthodox Pastoral Counsel
 
 
 ## Maximos capability and privacy boundaries
